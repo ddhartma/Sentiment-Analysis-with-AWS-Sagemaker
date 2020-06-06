@@ -22,12 +22,14 @@ Click on the 'new' dropdown menu and select 'terminal'. By default, the working 
 
 ```bash
 cd SageMaker
-git clone https://github.com/udacity/sagemaker-deployment.git
+git clone https://github.com/ddhartma/Sentiment-Analysis-with-AWS-Sagemaker.git
 exit
 ```
 
-After you have finished, close the terminal window.
+### Open and run the notebook
 
-### Open and run the notebook of your choice
+Now that the repository has been cloned into the notebook instance you may navigate to the notebook. Run the notebook via
 
-Now that the repository has been cloned into the notebook instance you may navigate to any of the notebooks that you wish to complete or execute and work with them. Any additional instructions are contained in their respective notebooks.
+```
+jupyter notebook SageMaker Project.ipynb
+```
